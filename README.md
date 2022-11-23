@@ -1,7 +1,7 @@
  
 ### Hi, i`m Caique Xavier !! 🤙👋
 
-🌱⚡ It was quiet, in the shade and the fresh water and I thought: why not put a little spice and noise in this quiet life? That's when I added a pinch of pepper, a little rock and roll, and a lot of programming... let's "Debug!
+🌱⚡ It was quiet, "under the shade and the fresh water" and I thought: why not put a little spice and noise in this quiet life? That's when I added a pinch of pepper, a little rock and roll, and a lot of programming... let's "Debug!
 Passionate about technology, I dream of being able to help or change people's lives through Programming.
 Forged through the teaching and methods of the Code Academy Bootcamp and I feel ready for new challenges.
 
