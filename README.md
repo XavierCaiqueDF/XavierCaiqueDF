@@ -1,12 +1,10 @@
  
 ### Hi, i`m Caique Xavier !! 🤙👋
 
-- 🌱 I’m currently learning beck end
-- 📫 How to reach me: xavier.caiq@gmail.com
-### Hi, i`m Caique Xavier !! 🤙
-Passionate about technology, I dream of being able to help or change people's lives through Programming.
+🌱 Passionate about technology, I dream of being able to help or change people's lives through Programming.
 Forged through the teaching and methods of the Code Academy Bootcamp and I feel ready for new challenges.
 
+### 📫 How to reach me !! 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](xavier.caiq@gmail.com)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T0J8THHCZ/slack-connect/rimeto_profile/U041DP90N8N)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XavierCaiqueDF)
