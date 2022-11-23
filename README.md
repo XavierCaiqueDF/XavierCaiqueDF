@@ -22,4 +22,12 @@ Forged through the teaching and methods of the Code Academy Bootcamp and I feel 
 <img alingn="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img alingn="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
+## 🏆 Cursos e Certificações
+
+Descrição   | Instituição   | Ano | Tipo
+--------- | --------- | ------ | ------
+🏅 Programming Bootcamp <Academia de Código_>™ | Full Stack | 2022 | Certificate
+🏅 Training for JAVA Certification | ALURA | 2022 | Certificate
+🏅 Database Training with Java| ALURA | 2022 | Certificate
+
 </div>
