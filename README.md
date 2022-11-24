@@ -1,9 +1,9 @@
  
 ### Hi, i`m Caique Xavier !! 🤙👋
 
-🌱⚡ It was quiet, "under the shade and the fresh water" and I thought: why not put a little spice and noise in this quiet life? That's when I added a pinch of pepper, a little rock and roll, and a lot of programming... let's "Debug!
-Passionate about technology, I dream of being able to help or change people's lives through Programming.
-Forged through the teaching and methods of the Code Academy Bootcamp and I feel ready for new challenges.
+🌱⚡ I feel good outside the comfort zone and my life was very calm and I thought, why not put some spice and some noise in this quiet life? That's when I added a pinch of pepper, a little rock and roll, and a lot of programming... let's "Debug! Passionate about technology, I dream of being able to help or change people's lives through Programming. Forged through teaching and methods from <Academia de Código_> and I feel ready for new challenges.
+
+With more than 12 years in the financial and administrative area, I meet deadlines, adapt to responsibilities and always look for a quick solution to problems.
 
 ### 📫 How to reach me !! 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](xavier.caiq@gmail.com)
